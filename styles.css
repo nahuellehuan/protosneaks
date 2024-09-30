@@ -1,0 +1,29 @@
+header{background-color: black;}
+nav{background-color: black;}
+
+
+
+@font-face {
+    font-family: "CustomFont";
+    src: url("./FONTS/Play-Regular.ttf")
+}
+
+
+
+body{
+    background-color: black;
+    color: white; 
+    text-align: center; 
+    font-family: "CustomFont"
+}
+#contactform input[type="text"], #contactform input[type="email"], #contactform input[type="submit"], #contactform textarea {color: black;}
+
+a {
+    color: white;
+    outline: none;
+    text-decoration-line: none;
+}
+
+a:visited {
+    color: white;
+}
