@@ -1,1 +1,1 @@
-Página E-COMMERCE de Smarthphones.
+Página E-COMMERCE de Sneakers.
