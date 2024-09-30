@@ -17,7 +17,9 @@ body{
 #contactform input[type="text"], #contactform input[type="email"], #contactform input[type="submit"], #contactform textarea {color: white;}
 
 a {
+    color: white;
     outline: none;
+    text-decoration-line: none;
 }
 
 a:visited {
