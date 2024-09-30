@@ -14,7 +14,7 @@ body{
     text-align: center; 
     font-family: "CustomFont"
 }
-#contactform input[type="text"], #contactform input[type="email"], #contactform input[type="submit"], #contactform textarea {color: white;}
+#contactform input[type="text"], #contactform input[type="email"], #contactform input[type="submit"], #contactform textarea {color: black;}
 
 a {
     color: white;
